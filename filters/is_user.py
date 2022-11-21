@@ -1,7 +1,7 @@
 
 from aiogram.types import Message
 from aiogram.dispatcher.filters import BoundFilter
-from data.config import ADMINS
+from data1.config import ADMINS
 
 class IsUser(BoundFilter):
 

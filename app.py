@@ -3,7 +3,7 @@ import os
 import handlers
 from aiogram import executor, types
 from aiogram.types import ReplyKeyboardMarkup, ReplyKeyboardRemove
-from data import config
+from data1 import config
 from loader import dp, db, bot
 import filters
 import logging
